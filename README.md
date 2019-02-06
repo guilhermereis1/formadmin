@@ -56,11 +56,11 @@ $primary-color: #c0ffee;
 
 ![Formadmin](formadmin.gif)
 
-## Donating
+<!-- ## Donating
 
 - **Bitcoin (BTC):** 1QDoa2Cr8Lbt15mSDQwQc1vRxH9HHT8AC
 - **Ethereum (ETH)**: 0x9d55a96d00B70FF9c23B05D610261E61e398f5BF
-- **Litecoin (LTC):** LVu6cTKF1VDVVFBxQPKpRUmbcshEeeWy8H
+- **Litecoin (LTC):** LVu6cTKF1VDVVFBxQPKpRUmbcshEeeWy8H -->
 
 ## Contributing
 
@@ -77,3 +77,9 @@ All you need to do is set the local path on your project `Gemfile`, like this:
 ```ruby
 gem 'formadmin', path: '/path/to/formadmin'
 ```
+
+Guilherme Reis
+
+* https://www.worldcode.com.br
+
+![alt text](https://res.cloudinary.com/dgxdamqhe/image/upload/v1545168182/logo_wc_png_irc4l2.png)
